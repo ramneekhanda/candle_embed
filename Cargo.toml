@@ -21,4 +21,4 @@ tokenizers="0.19.1"
 
 [features]
 cuda=["candle/cuda", "candle/cudnn", "candle_nn/cuda"]
-default=["cuda"]
+
